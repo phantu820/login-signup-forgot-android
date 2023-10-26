@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641410000672",
+    "firebase_url": "https://store-data-realtime-327ce-default-rtdb.firebaseio.com",
+    "project_id": "store-data-realtime-327ce",
+    "storage_bucket": "store-data-realtime-327ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641410000672:android:5a2d385f7e5889a3529945",
+        "android_client_info": {
+          "package_name": "com.example.petshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAi8EmtURzqYjHu3kr6qR55g-64WOkJts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
